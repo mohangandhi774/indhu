@@ -2,7 +2,7 @@ const{test ,expect}=require('@playwright/test');
 test('title',async({page})=>{
   
     await page.goto("https://github.com/mohangandhi774/indhu/tree/master/playwright");
-    await page.goto("https://chatgpt.com/");
+    await page.goto("https://www.youtube.com/");
 
-    await page.goto("https://github.com/");
+
 })
